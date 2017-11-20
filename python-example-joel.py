@@ -12,3 +12,6 @@ def quickMath(num1,num2):
 
 quickMath(5,6)
 
+
+
+print("Hello Gabe")
